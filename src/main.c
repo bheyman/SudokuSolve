@@ -42,9 +42,7 @@ int main(){
     }
   }
 
-  /* SOLVE THE BOARD */
-  
-  testFunc();
+  /* SOLVE THE BOARD */ 
     
   return 0;
 
