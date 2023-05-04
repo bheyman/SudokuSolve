@@ -10,4 +10,4 @@ SudokuSolve: $(OBJ)
 	$(CC) -o $@ $^ $(CFLAGS)
 
 clean:
-	rm -f SudokuSolve *.o
+	rm -f SudokuSolve src/*.o
